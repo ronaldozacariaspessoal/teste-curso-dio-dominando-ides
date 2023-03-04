@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b575806-c91a-460d-9af0-23aa072db455" name="Changes" comment="">
+    <list default="true" id="1b575806-c91a-460d-9af0-23aa072db455" name="Changes" comment="firt commit">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -57,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677899171513</updated>
     </task>
+    <task id="LOCAL-00001" summary="firt commit">
+      <created>1677904570512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677904570512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +77,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firt commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firt commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
